@@ -14,8 +14,6 @@ namespace DiagonalDifference
             _sut = new Solution();
         }
 
-        //[TestCase(new int[][] { new int[] { 1, 3, 5, 7, 9 }, new int[] { 0, 2, 4, 6 }, new int[] { 11, 22 } })]
-
         [TestCaseSource(nameof(_testCases))]
         public void Given_Jagged_Array_Of_Integers_Should_Calculate_And_Return_The_Diagonal_Difference_Between_The_Sums_Of_Its_Diagonals(int[][] arr, int expected)
         {
