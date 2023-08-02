@@ -25,9 +25,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToNumbers", "src\Roman
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mars Rover", "Mars Rover", "{1F2D4D58-063B-4232-9538-FF32DBCB713C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRoverTests", "src\MarsRoverTests\MarsRoverTests.csproj", "{9FC019EF-DC89-47E8-B82B-02616F7FB156}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsRoverTests", "src\MarsRoverTests\MarsRoverTests.csproj", "{9FC019EF-DC89-47E8-B82B-02616F7FB156}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRover", "src\MarsRover\MarsRover.csproj", "{DFEA5F61-FDB3-46AB-B0E0-5FDACF435402}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsRover", "src\MarsRover\MarsRover.csproj", "{DFEA5F61-FDB3-46AB-B0E0-5FDACF435402}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FizzBuzz", "FizzBuzz", "{BE528F66-10D6-4816-905D-792CA2885B3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "src\FizzBuzz\FizzBuzz.csproj", "{E92CD5E9-4EB6-457B-B9AB-165892FC9318}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,10 @@ Global
 		{DFEA5F61-FDB3-46AB-B0E0-5FDACF435402}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFEA5F61-FDB3-46AB-B0E0-5FDACF435402}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFEA5F61-FDB3-46AB-B0E0-5FDACF435402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E92CD5E9-4EB6-457B-B9AB-165892FC9318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E92CD5E9-4EB6-457B-B9AB-165892FC9318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E92CD5E9-4EB6-457B-B9AB-165892FC9318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E92CD5E9-4EB6-457B-B9AB-165892FC9318}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -75,6 +83,7 @@ Global
 		{C1101CEE-0468-4ECD-B064-5B6C3104E778} = {E54E02AC-9B43-47DA-ABA2-607C20BC331E}
 		{9FC019EF-DC89-47E8-B82B-02616F7FB156} = {1F2D4D58-063B-4232-9538-FF32DBCB713C}
 		{DFEA5F61-FDB3-46AB-B0E0-5FDACF435402} = {1F2D4D58-063B-4232-9538-FF32DBCB713C}
+		{E92CD5E9-4EB6-457B-B9AB-165892FC9318} = {BE528F66-10D6-4816-905D-792CA2885B3C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6561AC30-6C5B-481C-B97A-F1371E4A2E58}
