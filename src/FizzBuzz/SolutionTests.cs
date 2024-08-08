@@ -6,14 +6,6 @@ namespace FizzBuzz
     [TestFixture]
     public class SolutionTests
     {
-        private Solution _sut;
-
-        [SetUp]
-        public void SetUp()
-        {
-            _sut = new Solution();
-        }
-
         [TestCase(1, "1")]
         public void Given_A_Number_If_The_Number_Is_Not_A_Multiple_Of_3_And_5_Should_Return_Number(int number, string expected)
         {
