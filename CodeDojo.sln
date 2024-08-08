@@ -37,6 +37,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsRover", "src\MarsRover\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsRoverTests", "src\MarsRover\MarsRoverTests\MarsRoverTests.csproj", "{5F7EE18A-6ABA-4B5D-937B-C5F113A9AA75}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stair Case", "Stair Case", "{1EA1610B-D050-40A3-89F2-CEDAC17CBDE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StairCase", "src\StairCase\StairCase.csproj", "{F455922A-3174-4110-9992-828881382D42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +83,10 @@ Global
 		{5F7EE18A-6ABA-4B5D-937B-C5F113A9AA75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F7EE18A-6ABA-4B5D-937B-C5F113A9AA75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F7EE18A-6ABA-4B5D-937B-C5F113A9AA75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F455922A-3174-4110-9992-828881382D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F455922A-3174-4110-9992-828881382D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F455922A-3174-4110-9992-828881382D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F455922A-3174-4110-9992-828881382D42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -93,6 +101,7 @@ Global
 		{2560D8C5-67C8-427F-98D7-87B97E30338D} = {0879B389-10AE-40F1-90D6-00CDB7198349}
 		{ACCC8DE0-B373-4656-8A8B-05340A6F5FC8} = {1F2D4D58-063B-4232-9538-FF32DBCB713C}
 		{5F7EE18A-6ABA-4B5D-937B-C5F113A9AA75} = {1F2D4D58-063B-4232-9538-FF32DBCB713C}
+		{F455922A-3174-4110-9992-828881382D42} = {1EA1610B-D050-40A3-89F2-CEDAC17CBDE4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6561AC30-6C5B-481C-B97A-F1371E4A2E58}
