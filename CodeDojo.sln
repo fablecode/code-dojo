@@ -19,13 +19,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Diagonal Difference", "Diag
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalDifference", "src\DiagonalDifference\DiagonalDifference.csproj", "{214A12CF-9A50-43E3-A2FB-2E8E7E5B8EA8}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RomanToNumbers", "RomanToNumbers", "{E54E02AC-9B43-47DA-ABA2-607C20BC331E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Roman To Numbers", "Roman To Numbers", "{E54E02AC-9B43-47DA-ABA2-607C20BC331E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToNumbers", "src\RomanToNumbers\RomanToNumbers.csproj", "{C1101CEE-0468-4ECD-B064-5B6C3104E778}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mars Rover", "Mars Rover", "{1F2D4D58-063B-4232-9538-FF32DBCB713C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FizzBuzz", "FizzBuzz", "{BE528F66-10D6-4816-905D-792CA2885B3C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fizz Buzz", "Fizz Buzz", "{BE528F66-10D6-4816-905D-792CA2885B3C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "src\FizzBuzz\FizzBuzz.csproj", "{E92CD5E9-4EB6-457B-B9AB-165892FC9318}"
 EndProject
